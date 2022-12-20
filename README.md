@@ -1,6 +1,9 @@
 # hitcon-ctf-2018-one-line-php-challenge
 https://github.com/orangetw/My-CTF-Web-Challenges/tree/master/hitcon-ctf-2018/one-line-php-challenge
 
+#Reference
+https://github.com/tarunkant/Automation/blob/master/RCE_through_include.py
+
 ## Getting started
 ### Build
 
